@@ -8,6 +8,8 @@ Other folders or file should be saved in same directory and directory path shoul
 
 For Colour Identification, use only given "preprocessed_for_colour_id.csv" for higher accuracy.
 
+All the models are able to classifiy large dataset also. They need resizing and cropping so that only main object of image can be passed through CNN model.
+
 
 
 
